@@ -9,3 +9,19 @@ Saving varies by the type of work you are doing:
 -- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
+
+puppies = ["bulldog","terrier","poodle"]
+
+random_numbers = [ 2, 5, 6, 8, 30050]
+
+mixed = ["this", "array", 7, 20, "has", 45, "integers", "&", "strings", 309]
+
+famous_cats = ["Chesire Cat", "Puss in Boots", "Gargield"]
+
+famous_cats[1]
+
+famous_cats << "nala cat"
+
+famous_cats.push("Precious")
+
+precious_cat = famous_casts.pop
